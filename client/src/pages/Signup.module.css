@@ -1,0 +1,48 @@
+.container {
+  composes: container from './Login.module.css';
+}
+.card_wrapper {
+  composes: card_wrapper from './Login.module.css';
+}
+.header {
+  composes: header from './Login.module.css';
+}
+.sub_header {
+  composes: sub_header from './Login.module.css';
+}
+.tabs {
+  composes: tabs from './Login.module.css';
+}
+
+/* * {
+  width: 100%;
+} */
+
+.tabs.active {
+  border: 1px solid var(--button-bg);
+  color: var(--button-bg);
+  font-weight: bold;
+}
+
+.button_wrapper {
+  composes: button_wrapper from './Login.module.css';
+}
+
+.form_inputs {
+  composes: form_inputs from './Login.module.css';
+}
+.input_wrapper {
+  composes: input_wrapper from './Login.module.css';
+}
+.btn {
+  composes: btn from './Login.module.css';
+}
+.card_footer {
+  composes: card_footer from './Login.module.css';
+}
+.card_footer_content {
+  composes: card_footer_content from './Login.module.css';
+}
+.link {
+  composes: link from './Login.module.css';
+}

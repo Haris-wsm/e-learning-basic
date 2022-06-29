@@ -1,0 +1,43 @@
+.container {
+  composes: container from '../../../pages/Login.module.css';
+}
+.card_wrapper {
+  composes: card_wrapper from '../../../pages/Login.module.css';
+}
+.header {
+  composes: header from '../../../pages/Login.module.css';
+}
+.sub_header {
+  composes: sub_header from '../../../pages/Login.module.css';
+}
+.tabs {
+  composes: tabs from '../../../pages/Login.module.css';
+}
+
+.tabs.active {
+  border: 1px solid var(--button-bg);
+  color: var(--button-bg);
+  font-weight: bold;
+}
+
+.button_wrapper {
+  composes: button_wrapper from '../../../pages/Login.module.css';
+}
+.form_inputs {
+  composes: form_inputs from '../../../pages/Login.module.css';
+}
+.input_wrapper {
+  composes: input_wrapper from '../../../pages/Login.module.css';
+}
+.btn {
+  composes: btn from '../../../pages/Login.module.css';
+}
+.card_footer {
+  composes: card_footer from '../../../pages/Login.module.css';
+}
+.card_footer_content {
+  composes: card_footer_content from '../../../pages/Login.module.css';
+}
+.link {
+  composes: link from '../../../pages/Login.module.css';
+}
