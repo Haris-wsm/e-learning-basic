@@ -1,7 +1,8 @@
 <img src="https://github.com/Haris-wsm/e-learning-basic/blob/main/e-learning-git-header.png?raw=true" align="left" height="150" width="" />  
   
 
-<br/>  
+  <br/>  
+  <br/>  
 
 
 
@@ -44,9 +45,13 @@ A fullstack application with MERN stack, e-learning with video stream building b
    - bcrypt
    - multer
 
+<br/>  
+
 > Front 🎨
    - material-ui
    - material-x-data-grid
+
+<br/>  
 
 > About Project
    - Application video e-learning with register form for teacher or student to regist.
