@@ -1,8 +1,9 @@
 <img src="https://github.com/Haris-wsm/e-learning-basic/blob/main/e-learning-git-header.png?raw=true" align="left" height="150" width="" />  
   
 
-  <br/>  
-  <br/>  
+<br/>  
+<br/>  
+----
 
 
 
@@ -71,5 +72,4 @@ A fullstack application with MERN stack, e-learning with video stream building b
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
