@@ -44,11 +44,11 @@ A fullstack application with MERN stack, e-learning with video stream building b
    - bcrypt
    - multer
 
-###Front 🎨
+> Front 🎨
    - material-ui
    - material-x-data-grid
 
-###About Project
+> About Project
    - Application video e-learning with register form for teacher or student to regist.
    - Each courses will include many lesson and course owner can create new one too.
    - Videos will upload by teacher that will seperate in different lessons of course.
